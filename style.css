@@ -171,7 +171,7 @@
       height: 46px;
       border-radius: 12px;
       overflow: hidden;
-      background: #160c26;
+      background: transparent;
       display: grid;
       place-items: center;
       flex-shrink: 0;
